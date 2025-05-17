@@ -1,0 +1,12 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "Creating an server using express.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luchintha Anjana",
+  "license": "ISC"
+}
